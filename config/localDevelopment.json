@@ -1,0 +1,12 @@
+{
+    "db": {
+        "name": "test-app",
+        "host": "127.0.0.1",
+        "port": 27017
+    },
+    "appName": "user",
+    "api": {
+        "port": "3004",
+        "version": "v1"
+    }
+}
